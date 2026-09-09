@@ -15,14 +15,14 @@ body {
   margin: 30px auto;
 }
 
-/* GÓRNA CZĘŚĆ */
+
 
 .top {
   display: flex;
   justify-content: space-between;
 }
 
-/* ZDJĘCIE */
+
 
 .photo-box {
   width: 200px;
@@ -35,7 +35,7 @@ body {
   justify-content: center;
 }
 
-/* EGZAMINY */
+
 
 .exams {
   width: 300px;
@@ -59,7 +59,7 @@ body {
   color: green;
 }
 
-/* PROJEKTY */
+
 
 .projects {
   margin-top: 50px;
@@ -69,14 +69,14 @@ body {
   margin-bottom: 20px;
 }
 
-/* KAFELKI */
+
 
 .projects-grid {
   display: flex;
   gap: 20px;
 }
 
-/* POJEDYNCZY PROJEKT */
+
 
 .project {
   width: 33%;
@@ -84,7 +84,7 @@ body {
   border: 1px solid #cccccc;
 }
 
-/* MIEJSCE NA ZDJĘCIE */
+
 
 .project-image {
   height: 150px;
@@ -95,7 +95,7 @@ body {
   justify-content: center;
 }
 
-/* OPIS PROJEKTU */
+
 
 .project-content {
   padding: 20px;
@@ -109,7 +109,6 @@ body {
   margin-bottom: 15px;
 }
 
-/* PRZYCISK */
 
 button {
   padding: 8px 15px;
@@ -123,7 +122,6 @@ button:hover {
   background-color: #555555;
 }
 
-/* TELEFON */
 
 @media (max-width: 700px) {
   .top {
